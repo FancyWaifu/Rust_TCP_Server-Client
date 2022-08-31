@@ -1,7 +1,6 @@
 use std::io::prelude::*;
 use std::net::TcpStream;
 use std::str::Bytes;
-use easyinput::input;
 
 fn main() {
 
