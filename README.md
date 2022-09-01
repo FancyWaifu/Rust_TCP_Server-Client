@@ -2,7 +2,10 @@ Very simple TCP server/client in Rust
 
 This program is more for future reference when I want to implement bigger and better stuff
 
-How to run - client folder requires easyinput dependency:
+Dependency:
+Client folder - easyinput
+
+How to run:
 1) Run command "cargo new tcp_server"
 2) Run command "cargo new tcp_client"
 3) Put the server.rs file into the tcp_server src file
